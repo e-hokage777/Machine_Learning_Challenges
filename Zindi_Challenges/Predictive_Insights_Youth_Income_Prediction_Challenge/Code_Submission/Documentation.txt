@@ -1,0 +1,34 @@
+## DOCUMENTATION ON FINAL SUBMISSION
+
+DATA USED:
+    - Train.csv : training data
+    - Test.csv : data to make predictions on
+    
+    
+OUTPUT DATA PATH: ./final_submission.csv
+
+
+FEATURES USED AND EXPLANAITONS:
+1. Round - Round, out of the 4 that the individual was surveyed.
+2. Status- Professional status of person.
+3. Tenure- How long individual had been in their `Status`.
+4. Geography - Geography of person (Rural or Urban).
+5. Province - Province within which individual is.
+6. Matric - Indicator about whether person underwent matriculation or not.
+7. Degree - Indicator of whether person has degree or not.
+8. Diploma - Indicator of whether person has diploma or not.
+9. Female - Indicator of whether person is femal or not.
+10.Sa_citizen - Indicator of whether person is a citizen of South Africa or not.
+11.Birthyear - Year in which person was born.
+12.Birthmonth - Month in which person was born.
+13.Survey_year - Year in which individual was surveyed.
+14.Tenure_missing - Indicator on availability of tenure data.
+15.Science_missing - Indicator on availability of Science score range data.
+16.Home_lang_missing - Indicator on availability of Home_lang score range data.
+17.Mathlit_missing - Indicator on availability of Mathlit data.
+18.Math_missing - Indicator on availability of Math score range data.
+19.Degree_missing - Indicator on availability of Degree data.
+20.Diploma_missing - Indicator on availability of Diploma data.
+21.Schoolquintile_missing - Indicator on availability of Schoolquintile data.
+22.Additional_lang_missing - Indicator on availability of Addiitonal_lang score range data.
+23.Matric_missing - Indicator on availability of Matric data.
